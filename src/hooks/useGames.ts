@@ -1,4 +1,3 @@
-import axios, { AxiosRequestConfig } from "axios";
 import useData from "./useData";
 import { Genre } from "./useGeneres";
 
